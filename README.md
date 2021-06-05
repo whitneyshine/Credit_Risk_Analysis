@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis<br><br>
+# Credit_Risk_Analysis<br>
 
 ## Overview Of Analysis
 
