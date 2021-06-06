@@ -13,7 +13,16 @@ This new assignment consists of three technical analysis deliverables and a writ
       •	Used Ensemble Classifiers to Predict Credit Risk<br><br>
 
 ## Results<br><br>
-**RandomOverSampler**<br>
+**RandomOverSampler**<br><br>
+      * Balanced Accuracy Score:<br>
+      * Precision Score:<br>
+                  * High Risk Score:<br>
+                  * Low Risk Score:<br>
+                  * Overall Average/Total Score:<br>
+      * Recall Score:<br>
+                  * High Risk Score:<br>
+                  * Low Risk Score:<br>
+                  * Overall Average/Total Score:<br>
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
 **SMOTE**<br>
 ![SMOTE](Resources/SMOTE.png)<br><br>
