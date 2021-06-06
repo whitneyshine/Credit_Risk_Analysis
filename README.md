@@ -15,15 +15,15 @@ This new assignment consists of three technical analysis deliverables and a writ
 ## Results<br><br>
 **RandomOverSampler**<br>
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
-
+**SMOTE**<br>
 ![SMOTE](Resources/SMOTE.png)<br><br>
-
+**ClusterCentroids**<br>
 ![Cluster_Centroids](Resources/Cluster_Centroids.png)<br><br>
-
+**SMOTEENN**<br>
 ![SMOTEENN](Resources/SMOTEENN.png)<br><br>
-
+**BalancedRandomForestClassifier**<br>
 ![Balanced_Random_Forest_Classifier](Resources/Balanced_Random_Forest_Classifier.png)<br><br>
-
+**EasyEnsembleClassifier**<br>
 ![Easy_Ensemble_Classifier](Resources/Easy_Ensemble_Classifier.png)<br><br>
 
 ## Summary<br><br>
