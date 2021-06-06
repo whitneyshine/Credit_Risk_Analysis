@@ -25,14 +25,59 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Overall Average/Total Score:<br>
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
 **SMOTE**<br>
+* Balanced Accuracy Score:<br>
+* Precision Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
+* Recall Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
 ![SMOTE](Resources/SMOTE.png)<br><br>
 **ClusterCentroids**<br>
+* Balanced Accuracy Score:<br>
+* Precision Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
+* Recall Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
 ![Cluster_Centroids](Resources/Cluster_Centroids.png)<br><br>
 **SMOTEENN**<br>
+* Balanced Accuracy Score:<br>
+* Precision Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
+* Recall Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
 ![SMOTEENN](Resources/SMOTEENN.png)<br><br>
 **BalancedRandomForestClassifier**<br>
+* Balanced Accuracy Score:<br>
+* Precision Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
+* Recall Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
 ![Balanced_Random_Forest_Classifier](Resources/Balanced_Random_Forest_Classifier.png)<br><br>
 **EasyEnsembleClassifier**<br>
+* Balanced Accuracy Score:<br>
+* Precision Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
+* Recall Score<br>
+      * High Risk Score:<br>
+      * Low Risk Score:<br>
+      * Overall Average/Total Score:<br>
 ![Easy_Ensemble_Classifier](Resources/Easy_Ensemble_Classifier.png)<br><br>
 
 ## Summary<br><br>
