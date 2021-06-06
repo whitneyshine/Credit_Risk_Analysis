@@ -26,63 +26,63 @@ This new assignment consists of three technical analysis deliverables and a writ
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
 
 **SMOTE**<br>
-* Balanced Accuracy Score:<br>
+* Balanced Accuracy Score: 0.65<br>
 * Precision Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.01<br>
+      * Low Risk Score: 1.00<br>
+      * Overall Average/Total Score: 0.99<br>
 * Recall Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.60<br>
+      * Low Risk Score: 0.69<br>
+      * Overall Average/Total Score: 0.69<br>
 ![SMOTE](Resources/SMOTE.png)<br><br>
 
 **ClusterCentroids**<br>
-* Balanced Accuracy Score:<br>
+* Balanced Accuracy Score: 0.65<br>
 * Precision Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.01<br>
+      * Low Risk Score: 1.00<br>
+      * Overall Average/Total Score: 0.99<br>
 * Recall Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.69<br>
+      * Low Risk Score: 0.40<br>
+      * Overall Average/Total Score: 0.40<br>
 ![Cluster_Centroids](Resources/Cluster_Centroids.png)<br><br>
 
 **SMOTEENN**<br>
-* Balanced Accuracy Score:<br>
+* Balanced Accuracy Score: 0.54<br>
 * Precision Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.01<br>
+      * Low Risk Score: 1.00<br>
+      * Overall Average/Total Score: 0.99<br>
 * Recall Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.76<br>
+      * Low Risk Score: 0.57<br>
+      * Overall Average/Total Score: 0.58<br>
 ![SMOTEENN](Resources/SMOTEENN.png)<br><br>
 
 **BalancedRandomForestClassifier**<br>
-* Balanced Accuracy Score:<br>
+* Balanced Accuracy Score: 0.79<br>
 * Precision Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.03<br>
+      * Low Risk Score: 1.00<br>
+      * Overall Average/Total Score: 0.99<br>
 * Recall Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.70<br>
+      * Low Risk Score: 0.87<br>
+      * Overall Average/Total Score: 0.87<br>
 ![Balanced_Random_Forest_Classifier](Resources/Balanced_Random_Forest_Classifier.png)<br><br>
 
 **EasyEnsembleClassifier**<br>
-* Balanced Accuracy Score:<br>
+* Balanced Accuracy Score: 0.93<br>
 * Precision Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.09<br>
+      * Low Risk Score: 1.00<br>
+      * Overall Average/Total Score: 0.99<br>
 * Recall Score<br>
-      * High Risk Score:<br>
-      * Low Risk Score:<br>
-      * Overall Average/Total Score:<br>
+      * High Risk Score: 0.92<br>
+      * Low Risk Score: 0.94<br>
+      * Overall Average/Total Score: 0.94<br>
 ![Easy_Ensemble_Classifier](Resources/Easy_Ensemble_Classifier.png)<br><br>
 
 ## Summary<br><br>
