@@ -13,7 +13,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       •	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk<br><br>
 
 ## Results<br><br>
-
+**RandomOverSampler**<br>
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
 
 ![SMOTE](Resources/SMOTE.png)<br><br>
