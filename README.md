@@ -13,7 +13,7 @@ This new assignment consists of three technical analysis deliverables and a writ
 * Used Ensemble Classifiers to Predict Credit Risk<br><br>
 
 ## Results<br><br>
-**RandomOverSampler**<br><br>
+**RandomOverSampler**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
       * High Risk Score:<br>
@@ -24,6 +24,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
 ![Random_Over_Sampler](Resources/Random_Over_Sampler.png)<br><br>
+
 **SMOTE**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
@@ -35,6 +36,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
 ![SMOTE](Resources/SMOTE.png)<br><br>
+
 **ClusterCentroids**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
@@ -46,6 +48,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
 ![Cluster_Centroids](Resources/Cluster_Centroids.png)<br><br>
+
 **SMOTEENN**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
@@ -57,6 +60,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
 ![SMOTEENN](Resources/SMOTEENN.png)<br><br>
+
 **BalancedRandomForestClassifier**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
@@ -68,6 +72,7 @@ This new assignment consists of three technical analysis deliverables and a writ
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
 ![Balanced_Random_Forest_Classifier](Resources/Balanced_Random_Forest_Classifier.png)<br><br>
+
 **EasyEnsembleClassifier**<br>
 * Balanced Accuracy Score:<br>
 * Precision Score<br>
