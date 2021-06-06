@@ -15,11 +15,11 @@ This new assignment consists of three technical analysis deliverables and a writ
 ## Results<br><br>
 **RandomOverSampler**<br><br>
 * Balanced Accuracy Score:<br>
-* Precision Score:<br>
+* Precision Score<br>
       * High Risk Score:<br>
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
-* Recall Score:<br>
+* Recall Score<br>
       * High Risk Score:<br>
       * Low Risk Score:<br>
       * Overall Average/Total Score:<br>
