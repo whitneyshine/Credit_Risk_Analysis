@@ -3,9 +3,9 @@
 ## Overview Of Analysis<br>
 
 ### Background<br><br>
-Jill commends you for all your hard work. Piece by piece, you have been building up your skills in data preparation, statistical reasoning, and machine learning. You are now ready to apply machine learning to solve a real-world challenge: credit card risk.<br><br>
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you will need to employ different techniques to train and evaluate models with unbalanced classes. Jill asks you to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.<br><br>
-Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, you will oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, you will use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, you will compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once you are done, you will evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.<br><br>
+Jill is very appreciative for all of the hard work recently. Piece by piece, I have been building and improving my skills in data preparation, statistical reasoning, and machine learning. I am now ready to apply machine learning to solve a real-world challenge: credit card risk.<br><br>
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, I will need to employ different techniques to train and evaluate models with unbalanced classes. Jill has asked to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.<br><br>
+Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, I will oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, I will use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, I will compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once I am  done, I will evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.<br><br>
 ### What Has Been Created<br><br>
 This new assignment consists of three technical analysis deliverables and a written report. The following has been submitted:<br><br>
 * Used Resampling Models to Predict Credit Risk<br>
@@ -86,3 +86,7 @@ This new assignment consists of three technical analysis deliverables and a writ
 ![Easy_Ensemble_Classifier](Resources/Easy_Ensemble_Classifier.png)<br><br>
 
 ## Summary<br><br>
+
+Reviewing the data outputs, the two models that stand out in their performance are the BalancedRandomForestClassifier and EasyEnsembleClassifier - with EasyEnsembleClassifier being the heavyweight of all models.  
+
+As always, I appreciate the trust and patience as I worked through this project. If further information, analysis, or discussion is needed - please do not hestitate to reach out to me.  
