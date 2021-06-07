@@ -88,8 +88,10 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ## Summary<br><br>
 
-Reviewing the data outputs, the two models that stand out in their performance are the BalancedRandomForestClassifier and EasyEnsembleClassifier - with EasyEnsembleClassifier being the heavyweight of all models.<br>
+Reviewing the data outputs, the two models that stand out in their performance are the BalancedRandomForestClassifier and EasyEnsembleClassifier - with EasyEnsembleClassifier being the heavyweight of all models.  EasyEnsembleClassifier checks all the boxes on Balanced Accuracy Score, Precision Score, and Recall Score but there is one more output I would like to review.<br>
 
 The F1 score, also called the harmonic mean, can be characterized as a single summary statistic of precision and sensitivity.  The F1 score can be used to assess a model's performance and reviewing the two models we see that the BalancedRandomForestClassifier scored an overall average/total score of 0.93 and the EasyEnsembleClassifier scored an overall average/total score of 0.97.<br>
+
+With all testing being done, I would recommend the EasyEnsembleClassifier.  It has performed well in our three initial categories of testing as well as in F1 score.  I think this model will meet all of our needs.<br>
 
 As always, I appreciate the trust and patience as I worked through this project. If further information, analysis, or discussion is needed - please do not hestitate to reach out to me.  
