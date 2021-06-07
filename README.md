@@ -87,6 +87,8 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 ## Summary<br><br>
 
-Reviewing the data outputs, the two models that stand out in their performance are the BalancedRandomForestClassifier and EasyEnsembleClassifier - with EasyEnsembleClassifier being the heavyweight of all models.  
+Reviewing the data outputs, the two models that stand out in their performance are the BalancedRandomForestClassifier and EasyEnsembleClassifier - with EasyEnsembleClassifier being the heavyweight of all models.<br>
+
+The F1 score, also called the harmonic mean, can be characterized as a single summary statistic of precision and sensitivity.<br>
 
 As always, I appreciate the trust and patience as I worked through this project. If further information, analysis, or discussion is needed - please do not hestitate to reach out to me.  
